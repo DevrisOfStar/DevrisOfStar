@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/DevrisOfStar?style=for-the-badge&logo=github&color=6C63FF)](https://github.com/DevrisOfStar)
-[![GitHub stars](https://img.shields.io/github/stars/DevrisOfStar?style=for-the-badge&logo=github&color=3D3D5C)](https://github.com/DevrisOfStar)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DevrisOfStar&query=public_repos&style=for-the-badge&logo=github&label=public%20repos&color=3D3D5C)](https://github.com/DevrisOfStar?tab=repositories)
 
 </div>
 
@@ -18,7 +18,7 @@
 ```text
 🎓  Dongguk University
 💻  Backend · Android · Full-stack
-🧩  Algorithm & Problem Solving
+🧩  Algorithm PS — BOJ · SWEA · Programmers
 🌱  Exploring Kotlin, Docker & AI
 ```
 
@@ -47,10 +47,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevrisOfStar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DevrisOfStar&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevrisOfStar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=DevrisOfStar&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevrisOfStar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevrisOfStar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
@@ -62,16 +62,25 @@
 |:---:|:---|:---|
 | 🌐 | [**portfolio**](https://github.com/DevrisOfStar/portfolio) | Personal portfolio website |
 | 📱 | [**MGData-AOS**](https://github.com/DevrisOfStar/MGData-AOS) | NAS file & Docker management app with ChatGPT |
-| 🧩 | [**acmicpc**](https://github.com/DevrisOfStar/acmicpc) | Algorithm problem solving archive |
 | 🤖 | [**ssafyChatbot**](https://github.com/DevrisOfStar/ssafyChatbot) | Python-based chatbot project |
 
 <br/>
 
-### 🏆 Problem Solving
+### 🧩 Problem Solving
 
-![BOJ](https://img.shields.io/badge/BOJ-Solved-6C63FF?style=for-the-badge)
-![SWEA](https://img.shields.io/badge/SWEA-Solutions-3D3D5C?style=for-the-badge)
-![Programmers](https://img.shields.io/badge/Programmers-Practice-6C63FF?style=for-the-badge)
+알고리즘 PS 기록을 플랫폼별 저장소에 정리해 두고 있습니다.
+
+| Platform | Repository | Description |
+|:---:|:---|:---|
+| 백준 · BOJ | [**acmicpc**](https://github.com/DevrisOfStar/acmicpc) | Java로 풀이한 백준 문제 모음 |
+| SW Expert Academy | [**SWEA**](https://github.com/DevrisOfStar/SWEA) | 삼성 SW 역량테스트 대비 풀이 |
+| 프로그래머스 | [**Programmers**](https://github.com/DevrisOfStar/Programmers) | 코딩 테스트 연습 기록 |
+
+<br/>
+
+[![BOJ](https://img.shields.io/badge/백준_·_BOJ-acmicpc-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/DevrisOfStar/acmicpc)
+[![SWEA](https://img.shields.io/badge/SWEA-Solutions-3D3D5C?style=for-the-badge&logo=samsung&logoColor=white)](https://github.com/DevrisOfStar/SWEA)
+[![Programmers](https://img.shields.io/badge/프로그래머스-Programmers-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/DevrisOfStar/Programmers)
 
 <br/>
 

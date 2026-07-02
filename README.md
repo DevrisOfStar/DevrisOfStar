@@ -87,6 +87,7 @@
 ### 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-DevrisOfStar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevrisOfStar)
+[![Email](https://img.shields.io/badge/Email-yh1483@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yh1483@naver.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/DevrisOfStar/portfolio)
 
 <br/>

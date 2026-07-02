@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3D3D5C&height=180&section=header&text=DevrisOfStar&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=안녕하세요!+%F0%9F%91%8B;Software+Developer;Problem+Solver+%F0%9F%A7%A9;Always+Building+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%20%F0%9F%91%8B;Software+Developer;Problem+Solver%20%F0%9F%A7%A9;Always+Building+Something+New" alt="Typing SVG" />
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/DevrisOfStar?style=for-the-badge&logo=github&color=6C63FF)](https://github.com/DevrisOfStar)
-[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DevrisOfStar&query=public_repos&style=for-the-badge&logo=github&label=public%20repos&color=3D3D5C)](https://github.com/DevrisOfStar?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/public%20repos-12-3D3D5C?style=for-the-badge&logo=github)](https://github.com/DevrisOfStar?tab=repositories)
 
 </div>
 
@@ -47,10 +47,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevrisOfStar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=DevrisOfStar&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
+<img height="170" src="./assets/github-stats.svg" alt="GitHub Stats"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=DevrisOfStar&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevrisOfStar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8"/>
+<img src="./assets/top-langs.svg" alt="Top Languages"/>
 
 </div>
 

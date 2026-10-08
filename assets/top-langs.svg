@@ -1,8 +1,8 @@
 
       <svg
         width="350"
-        height="190"
-        viewBox="0 0 350 190"
+        height="165"
+        viewBox="0 0 350 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
@@ -65,7 +65,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="211.21" 
+            width="244.85" 
             height="8"
             fill="#b07219"
           />
@@ -73,9 +73,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="211.21" 
+            x="244.85" 
             y="0"
-            width="29.11" 
+            width="33.40" 
             height="8"
             fill="#e34c26"
           />
@@ -83,29 +83,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="240.32" 
+            x="278.25" 
             y="0"
-            width="21.31" 
-            height="8"
-            fill="#f1e05a"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="261.63" 
-            y="0"
-            width="14.22" 
-            height="8"
-            fill="#663399"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="275.85" 
-            y="0"
-            width="13.44" 
+            width="15.58" 
             height="8"
             fill="#3572A5"
           />
@@ -113,19 +93,19 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="289.29" 
+            x="293.83" 
             y="0"
-            width="18.86" 
+            width="14.04" 
             height="8"
-            fill="#3178c6"
+            fill="#663399"
           />
         
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="298.15000000000003" 
+            x="297.87" 
             y="0"
-            width="11.85" 
+            width="12.14" 
             height="8"
             fill="#A97BFF"
           />
@@ -134,49 +114,35 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java (70.40%)
+        Java (81.62%)
       </text>
     </g>
   
     <g transform="translate(150, 25)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML (9.70%)
+        HTML (11.13%)
       </text>
     </g>
   
     <g transform="translate(0, 50)">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript (7.10%)
+        Python (5.19%)
       </text>
     </g>
   
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS (4.74%)
+        CSS (1.35%)
       </text>
     </g>
   
     <g transform="translate(0, 75)">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python (4.48%)
-      </text>
-    </g>
-  
-    <g transform="translate(150, 75)">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript (2.95%)
-      </text>
-    </g>
-  
-    <g transform="translate(0, 100)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin (0.62%)
+        Kotlin (0.71%)
       </text>
     </g>
   
